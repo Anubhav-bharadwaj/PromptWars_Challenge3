@@ -1,16 +1,25 @@
-# React + Vite
+🌱 Carbon Tracker EcoAI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered web application that helps users calculate and track their carbon footprint while receiving personalized eco-friendly recommendations.
 
-Currently, two official plugins are available:
+🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://carbontrackerecoai.vercel.app/
 
-## React Compiler
+✨ Features
+Carbon footprint calculation
+AI-powered sustainability suggestions
+Interactive dashboard
+Real-time emissions insights
+Responsive and user-friendly design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ Tech Stack
+React.js
+JavaScript
+CSS
+AI Integration
+Vercel Deployment
 
-## Expanding the ESLint configuration
+🎯 Purpose
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+To help individuals understand their environmental impact and encourage sustainable lifestyle choices through AI-driven insights.
